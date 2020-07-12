@@ -23,4 +23,3 @@ def square_root(num)
 end
 
 
-subtraction(10, 5)
