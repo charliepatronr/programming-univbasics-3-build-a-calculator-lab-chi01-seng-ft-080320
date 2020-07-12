@@ -21,3 +21,6 @@ end
 def square_root(num)
   result = Math.sqrt(num)
 end
+
+
+subtraction(10, 5)
